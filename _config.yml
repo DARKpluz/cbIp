@@ -1,2 +1,5 @@
+title: Morning in the pine forest
+description: A painting by Russian painters Ivan Shishkin and Konstantin Savitsky, painted in 1889; one of the most popular paintings by Shishkin.
+theme:  #include <stdio.h>      #include <stdlib.h>int main(){    int baka;     for(baka = 9;baka < 1000;baka = baka+9){         printf( "%d\n",baka);        }}    getchar();
 title: Утро в сосновом бору
 description: Картина русских живописцев Ивана Шишкина и Константина Савицкого, написанная в 1889 году; одно из наиболее популярных полотен Шишкина
